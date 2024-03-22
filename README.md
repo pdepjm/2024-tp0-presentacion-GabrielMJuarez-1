@@ -3,3 +3,4 @@
 
 **Hola soy Juarez Gabriel**
 
+*Acerca de mi, esta es la primera vez que curso la materia y aspiro a promocionarla*
